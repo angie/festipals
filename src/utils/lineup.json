@@ -1,0 +1,1061 @@
+{
+  "PYRAMID STAGE": {
+    "FRIDAY": [
+      {
+        "artist": "ARCTIC MONKEYS",
+        "from": "2023-06-22T22:15:00Z",
+        "to": "2023-06-22T23:45:00Z"
+      },
+      {
+        "artist": "ROYAL BLOOD",
+        "from": "2023-06-22T20:15:00Z",
+        "to": "2023-06-22T21:15:00Z"
+      },
+      {
+        "artist": "THE CHURNUPS",
+        "from": "2023-06-22T18:15:00Z",
+        "to": "2023-06-22T19:30:00Z"
+      },
+      {
+        "artist": "TEXAS",
+        "from": "2023-06-22T16:15:00Z",
+        "to": "2023-06-22T17:15:00Z"
+      },
+      {
+        "artist": "STEFFLON DON",
+        "from": "2023-06-22T14:45:00Z",
+        "to": "2023-06-22T15:45:00Z"
+      },
+      {
+        "artist": "MAISIE PETERS",
+        "from": "2023-06-22T13:15:00Z",
+        "to": "2023-06-22T14:15:00Z"
+      },
+      {
+        "artist": "THE MASTER MUSICIANS OF JOUJOUKA",
+        "from": "2023-06-22T12:00:00Z",
+        "to": "2023-06-22T12:45:00Z"
+      }
+    ],
+    "SATURDAY": [
+      {
+        "artist": "GUNS N' ROSES",
+        "from": "2023-06-23T21:30:00Z",
+        "to": "2023-06-23T23:45:00Z"
+      },
+      {
+        "artist": "LIZZO",
+        "from": "2023-06-23T19:30:00Z",
+        "to": "2023-06-23T20:30:00Z"
+      },
+      {
+        "artist": "LEWIS CAPALDI",
+        "from": "2023-06-23T17:35:00Z",
+        "to": "2023-06-23T18:35:00Z"
+      },
+      {
+        "artist": "AITCH",
+        "from": "2023-06-23T16:00:00Z",
+        "to": "2023-06-23T17:00:00Z"
+      },
+      {
+        "artist": "AMADOU & MARIAM",
+        "from": "2023-06-23T14:30:00Z",
+        "to": "2023-06-23T15:30:00Z"
+      },
+      {
+        "artist": "RAYE",
+        "from": "2023-06-23T13:15:00Z",
+        "to": "2023-06-23T14:00:00Z"
+      },
+      {
+        "artist": "RICK ASTLEY",
+        "from": "2023-06-23T12:00:00Z",
+        "to": "2023-06-23T12:45:00Z"
+      }
+    ],
+    "SUNDAY": [
+      {
+        "artist": "ELTON JOHN",
+        "from": "2023-06-24T21:00:00Z",
+        "to": "2023-06-24T23:05:00Z"
+      },
+      {
+        "artist": "LIL NAS X",
+        "from": "2023-06-24T19:00:00Z",
+        "to": "2023-06-24T20:00:00Z"
+      },
+      {
+        "artist": "BLONDIE",
+        "from": "2023-06-24T17:00:00Z",
+        "to": "2023-06-24T18:15:00Z"
+      },
+      {
+        "artist": "YUSUF / CAT STEVENS",
+        "from": "2023-06-24T15:15:00Z",
+        "to": "2023-06-24T16:30:00Z"
+      },
+      {
+        "artist": "THE CHICKS",
+        "from": "2023-06-24T13:30:00Z",
+        "to": "2023-06-24T14:30:00Z"
+      },
+      {
+        "artist": "SOPHIE ELLIS-BEXTOR",
+        "from": "2023-06-24T12:15:00Z",
+        "to": "2023-06-24T13:00:00Z"
+      },
+      {
+        "artist": "THE BRISTOL REGGAE ORCHESTRA AND WINDRUSH CHOIR",
+        "from": "2023-06-24T11:00:00Z",
+        "to": "2023-06-24T11:45:00Z"
+      }
+    ]
+  },
+  "OTHER STAGE": {
+    "FRIDAY": [
+      {
+        "artist": "WIZKID",
+        "from": "2023-06-22T22:30:00Z",
+        "to": "2023-06-22T23:45:00Z"
+      },
+      {
+        "artist": "FRED AGAIN..",
+        "from": "2023-06-22T20:30:00Z",
+        "to": "2023-06-22T21:30:00Z"
+      },
+      {
+        "artist": "CHVRCHES",
+        "from": "2023-06-22T18:45:00Z",
+        "to": "2023-06-22T19:45:00Z"
+      },
+      {
+        "artist": "KREPT & KONAN",
+        "from": "2023-06-22T17:15:00Z",
+        "to": "2023-06-22T18:15:00Z"
+      },
+      {
+        "artist": "CARLY RAE JEPSEN",
+        "from": "2023-06-22T15:45:00Z",
+        "to": "2023-06-22T16:45:00Z"
+      },
+      {
+        "artist": "LIGHTNING SEEDS",
+        "from": "2023-06-22T14:15:00Z",
+        "to": "2023-06-22T15:15:00Z"
+      },
+      {
+        "artist": "THE HIVES",
+        "from": "2023-06-22T13:00:00Z",
+        "to": "2023-06-22T13:45:00Z"
+      },
+      {
+        "artist": "BEN HOWARD",
+        "from": "2023-06-22T11:30:00Z",
+        "to": "2023-06-22T12:30:00Z"
+      }
+    ],
+    "SATURDAY": [
+      {
+        "artist": "LANA DEL REY",
+        "from": "2023-06-23T22:30:00Z",
+        "to": "2023-06-23T23:45:00Z"
+      },
+      {
+        "artist": "CENTRAL CEE",
+        "from": "2023-06-23T20:45:00Z",
+        "to": "2023-06-23T21:45:00Z"
+      },
+      {
+        "artist": "MANIC STREET PREACHERS",
+        "from": "2023-06-23T18:45:00Z",
+        "to": "2023-06-23T19:45:00Z"
+      },
+      {
+        "artist": "MAGGIE ROGERS",
+        "from": "2023-06-23T17:15:00Z",
+        "to": "2023-06-23T18:15:00Z"
+      },
+      {
+        "artist": "GENERATION SEX",
+        "from": "2023-06-23T15:45:00Z",
+        "to": "2023-06-23T16:45:00Z"
+      },
+      {
+        "artist": "TOM GRENNAN",
+        "from": "2023-06-23T14:15:00Z",
+        "to": "2023-06-23T15:15:00Z"
+      },
+      {
+        "artist": "THE LATHUMS",
+        "from": "2023-06-23T13:00:00Z",
+        "to": "2023-06-23T13:45:00Z"
+      },
+      {
+        "artist": "THE UNTHANKS",
+        "from": "2023-06-23T11:45:00Z",
+        "to": "2023-06-23T12:30:00Z"
+      }
+    ],
+    "SUNDAY": [
+      {
+        "artist": "QUEENS OF THE STONE AGE",
+        "from": "2023-06-24T21:45:00Z",
+        "to": "2023-06-24T23:15:00Z"
+      },
+      {
+        "artist": "THE WAR ON DRUGS",
+        "from": "2023-06-24T19:45:00Z",
+        "to": "2023-06-24T20:45:00Z"
+      },
+      {
+        "artist": "BECKY HILL",
+        "from": "2023-06-24T18:00:00Z",
+        "to": "2023-06-24T19:00:00Z"
+      },
+      {
+        "artist": "DERMOT KENNEDY",
+        "from": "2023-06-24T16:30:00Z",
+        "to": "2023-06-24T17:30:00Z"
+      },
+      {
+        "artist": "THE TESKEY BROTHERS",
+        "from": "2023-06-24T15:00:00Z",
+        "to": "2023-06-24T16:00:00Z"
+      },
+      {
+        "artist": "NOVA TWINS",
+        "from": "2023-06-24T13:45:00Z",
+        "to": "2023-06-24T14:30:00Z"
+      },
+      {
+        "artist": "JAPANESE BREAKFAST",
+        "from": "2023-06-24T12:30:00Z",
+        "to": "2023-06-24T13:15:00Z"
+      },
+      {
+        "artist": "THE JOY",
+        "from": "2023-06-24T11:00:00Z",
+        "to": "2023-06-24T12:00:00Z"
+      }
+    ]
+  },
+  "WEST HOLTS STAGE": {
+    "FRIDAY": [
+      {
+        "artist": "KELIS",
+        "from": "2023-06-22T22:15:00Z",
+        "to": "2023-06-22T23:45:00Z"
+      },
+      {
+        "artist": "YOUNG FATHERS",
+        "from": "2023-06-22T20:30:00Z",
+        "to": "2023-06-22T21:30:00Z"
+      },
+      {
+        "artist": "JOEY BADA$$",
+        "from": "2023-06-22T19:00:00Z",
+        "to": "2023-06-22T20:00:00Z"
+      },
+      {
+        "artist": "GABRIELS",
+        "from": "2023-06-22T17:30:00Z",
+        "to": "2023-06-22T18:30:00Z"
+      },
+      {
+        "artist": "LOUIS COLE",
+        "from": "2023-06-22T16:00:00Z",
+        "to": "2023-06-22T17:00:00Z"
+      },
+      {
+        "artist": "ADG7",
+        "from": "2023-06-22T14:30:00Z",
+        "to": "2023-06-22T15:30:00Z"
+      },
+      {
+        "artist": "YAYA BEY",
+        "from": "2023-06-22T13:00:00Z",
+        "to": "2023-06-22T14:00:00Z"
+      },
+      {
+        "artist": "STAR FEMININE BAND",
+        "from": "2023-06-22T11:30:00Z",
+        "to": "2023-06-22T12:30:00Z"
+      }
+    ],
+    "SATURDAY": [
+      {
+        "artist": "LOYLE CARNER",
+        "from": "2023-06-23T22:15:00Z",
+        "to": "2023-06-23T23:45:00Z"
+      },
+      {
+        "artist": "MAHALIA",
+        "from": "2023-06-23T20:30:00Z",
+        "to": "2023-06-23T21:30:00Z"
+      },
+      {
+        "artist": "EZRA COLLECTIVE",
+        "from": "2023-06-23T19:00:00Z",
+        "to": "2023-06-23T20:00:00Z"
+      },
+      {
+        "artist": "JACOB COLLIER",
+        "from": "2023-06-23T17:30:00Z",
+        "to": "2023-06-23T18:30:00Z"
+      },
+      {
+        "artist": "THIRD WORLD",
+        "from": "2023-06-23T16:00:00Z",
+        "to": "2023-06-23T17:00:00Z"
+      },
+      {
+        "artist": "SUDAN ARCHIVES",
+        "from": "2023-06-23T14:30:00Z",
+        "to": "2023-06-23T15:30:00Z"
+      },
+      {
+        "artist": "KANDA BONGO MAN",
+        "from": "2023-06-23T13:00:00Z",
+        "to": "2023-06-23T14:00:00Z"
+      },
+      {
+        "artist": "SAY SHE SHE",
+        "from": "2023-06-23T11:30:00Z",
+        "to": "2023-06-23T12:30:00Z"
+      }
+    ],
+    "SUNDAY": [
+      {
+        "artist": "RUDIMENTAL",
+        "from": "2023-06-24T21:45:00Z",
+        "to": "2023-06-24T23:15:00Z"
+      },
+      {
+        "artist": "CANDI STATON",
+        "from": "2023-06-24T20:00:00Z",
+        "to": "2023-06-24T21:00:00Z"
+      },
+      {
+        "artist": "BARRINGTON LEVY",
+        "from": "2023-06-24T18:30:00Z",
+        "to": "2023-06-24T19:30:00Z"
+      },
+      {
+        "artist": "THE HU",
+        "from": "2023-06-24T17:00:00Z",
+        "to": "2023-06-24T18:00:00Z"
+      },
+      {
+        "artist": "SPEAKERS CORNER QUARTET",
+        "from": "2023-06-24T15:30:00Z",
+        "to": "2023-06-24T16:30:00Z"
+      },
+      {
+        "artist": "BLACK COUNTRY, NEW ROAD",
+        "from": "2023-06-24T14:00:00Z",
+        "to": "2023-06-24T15:00:00Z"
+      },
+      {
+        "artist": "BETH ORTON",
+        "from": "2023-06-24T12:30:00Z",
+        "to": "2023-06-24T13:30:00Z"
+      },
+      {
+        "artist": "SKINNY PELEMBE",
+        "from": "2023-06-24T11:00:00Z",
+        "to": "2023-06-24T12:00:00Z"
+      }
+    ]
+  },
+  "WOODSIES": {
+    "FRIDAY": [
+      {
+        "artist": "HOT CHIP",
+        "from": "2023-06-22T22:30:00Z",
+        "to": "2023-06-22T23:45:00Z"
+      },
+      {
+        "artist": "WARPAINT",
+        "from": "2023-06-22T21:00:00Z",
+        "to": "2023-06-22T22:00:00Z"
+      },
+      {
+        "artist": "TBA",
+        "from": "2023-06-22T19:30:00Z",
+        "to": "2023-06-22T20:30:00Z"
+      },
+      {
+        "artist": "COURTEENERS",
+        "from": "2023-06-22T18:00:00Z",
+        "to": "2023-06-22T19:00:00Z"
+      },
+      {
+        "artist": "PALE WAVES",
+        "from": "2023-06-22T16:30:00Z",
+        "to": "2023-06-22T17:30:00Z"
+      },
+      {
+        "artist": "DIGGA D",
+        "from": "2023-06-22T15:15:00Z",
+        "to": "2023-06-22T16:00:00Z"
+      },
+      {
+        "artist": "FLO",
+        "from": "2023-06-22T14:00:00Z",
+        "to": "2023-06-22T14:45:00Z"
+      },
+      {
+        "artist": "BRU-C",
+        "from": "2023-06-22T12:45:00Z",
+        "to": "2023-06-22T13:30:00Z"
+      },
+      {
+        "artist": "THE SIXSTERS",
+        "from": "2023-06-22T11:30:00Z",
+        "to": "2023-06-22T12:15:00Z"
+      }
+    ],
+    "SATURDAY": [
+      {
+        "artist": "CHRISTINE AND THE QUEENS",
+        "from": "2023-06-23T22:30:00Z",
+        "to": "2023-06-23T23:45:00Z"
+      },
+      {
+        "artist": "RINA SAWAYAMA",
+        "from": "2023-06-23T21:00:00Z",
+        "to": "2023-06-23T22:00:00Z"
+      },
+      {
+        "artist": "MÅNESKIN",
+        "from": "2023-06-23T19:30:00Z",
+        "to": "2023-06-23T20:30:00Z"
+      },
+      {
+        "artist": "TBA",
+        "from": "2023-06-23T18:00:00Z",
+        "to": "2023-06-23T19:00:00Z"
+      },
+      {
+        "artist": "SHAME",
+        "from": "2023-06-23T16:30:00Z",
+        "to": "2023-06-23T17:30:00Z"
+      },
+      {
+        "artist": "THE MURDER CAPITAL",
+        "from": "2023-06-23T15:15:00Z",
+        "to": "2023-06-23T16:00:00Z"
+      },
+      {
+        "artist": "WORKING MEN'S CLUB",
+        "from": "2023-06-23T14:00:00Z",
+        "to": "2023-06-23T14:45:00Z"
+      },
+      {
+        "artist": "WUNDERHORSE",
+        "from": "2023-06-23T12:45:00Z",
+        "to": "2023-06-23T13:30:00Z"
+      },
+      {
+        "artist": "THE LAST DINNER PARTY",
+        "from": "2023-06-23T11:30:00Z",
+        "to": "2023-06-23T12:15:00Z"
+      }
+    ],
+    "SUNDAY": [
+      {
+        "artist": "PHOENIX",
+        "from": "2023-06-24T21:30:00Z",
+        "to": "2023-06-24T22:45:00Z"
+      },
+      {
+        "artist": "CAROLINE POLACHEK",
+        "from": "2023-06-24T20:00:00Z",
+        "to": "2023-06-24T21:00:00Z"
+      },
+      {
+        "artist": "EDITORS",
+        "from": "2023-06-24T18:30:00Z",
+        "to": "2023-06-24T19:30:00Z"
+      },
+      {
+        "artist": "SLOWDIVE",
+        "from": "2023-06-24T17:00:00Z",
+        "to": "2023-06-24T18:00:00Z"
+      },
+      {
+        "artist": "CAT BURNS",
+        "from": "2023-06-24T15:30:00Z",
+        "to": "2023-06-24T16:30:00Z"
+      },
+      {
+        "artist": "THE BIG MOON",
+        "from": "2023-06-24T14:00:00Z",
+        "to": "2023-06-24T15:00:00Z"
+      },
+      {
+        "artist": "CMAT",
+        "from": "2023-06-24T12:30:00Z",
+        "to": "2023-06-24T13:30:00Z"
+      },
+      {
+        "artist": "THE LOVE BUZZ",
+        "from": "2023-06-24T11:15:00Z",
+        "to": "2023-06-24T12:00:00Z"
+      }
+    ]
+  },
+  "THE PARK STAGE": {
+    "FRIDAY": [
+      {
+        "artist": "FEVER RAY",
+        "from": "2023-06-22T23:00:00Z",
+        "to": "2023-06-23T00:15:00Z"
+      },
+      {
+        "artist": "SPARKS",
+        "from": "2023-06-22T21:15:00Z",
+        "to": "2023-06-22T22:15:00Z"
+      },
+      {
+        "artist": "SHYGIRL",
+        "from": "2023-06-22T19:45:00Z",
+        "to": "2023-06-22T20:45:00Z"
+      },
+      {
+        "artist": "THE COMET IS COMING",
+        "from": "2023-06-22T18:15:00Z",
+        "to": "2023-06-22T19:15:00Z"
+      },
+      {
+        "artist": "UNKNOWN MORTAL ORCHESTRA",
+        "from": "2023-06-22T16:45:00Z",
+        "to": "2023-06-22T17:45:00Z"
+      },
+      {
+        "artist": "BILLY NOMATES",
+        "from": "2023-06-22T15:15:00Z",
+        "to": "2023-06-22T16:15:00Z"
+      },
+      {
+        "artist": "LOS BITCHOS",
+        "from": "2023-06-22T14:00:00Z",
+        "to": "2023-06-22T14:45:00Z"
+      },
+      {
+        "artist": "ALABASTER DEPLUME",
+        "from": "2023-06-22T12:45:00Z",
+        "to": "2023-06-22T13:30:00Z"
+      },
+      {
+        "artist": "ADWAITH",
+        "from": "2023-06-22T11:30:00Z",
+        "to": "2023-06-22T12:10:00Z"
+      }
+    ],
+    "SATURDAY": [
+      {
+        "artist": "FATBOY SLIM",
+        "from": "2023-06-23T23:00:00Z",
+        "to": "2023-06-24T00:15:00Z"
+      },
+      {
+        "artist": "LEFTFIELD",
+        "from": "2023-06-23T21:15:00Z",
+        "to": "2023-06-23T22:15:00Z"
+      },
+      {
+        "artist": "TBA",
+        "from": "2023-06-23T19:45:00Z",
+        "to": "2023-06-23T20:45:00Z"
+      },
+      {
+        "artist": "TINARIWEN",
+        "from": "2023-06-23T18:15:00Z",
+        "to": "2023-06-23T19:15:00Z"
+      },
+      {
+        "artist": "OBONGJAYAR",
+        "from": "2023-06-23T16:45:00Z",
+        "to": "2023-06-23T17:45:00Z"
+      },
+      {
+        "artist": "JOCKSTRAP",
+        "from": "2023-06-23T15:15:00Z",
+        "to": "2023-06-23T16:15:00Z"
+      },
+      {
+        "artist": "FLOHIO",
+        "from": "2023-06-23T14:00:00Z",
+        "to": "2023-06-23T14:45:00Z"
+      },
+      {
+        "artist": "JAMES ELLIS FORD",
+        "from": "2023-06-23T12:45:00Z",
+        "to": "2023-06-23T13:30:00Z"
+      },
+      {
+        "artist": "MAX RICHTER",
+        "from": "2023-06-23T11:10:00Z",
+        "to": "2023-06-23T12:10:00Z"
+      }
+    ],
+    "SUNDAY": [
+      {
+        "artist": "ALT-J",
+        "from": "2023-06-24T21:15:00Z",
+        "to": "2023-06-24T22:30:00Z"
+      },
+      {
+        "artist": "THUNDERCAT",
+        "from": "2023-06-24T19:45:00Z",
+        "to": "2023-06-24T20:45:00Z"
+      },
+      {
+        "artist": "ALISON GOLDFRAPP",
+        "from": "2023-06-24T18:15:00Z",
+        "to": "2023-06-24T19:15:00Z"
+      },
+      {
+        "artist": "VIAGRA BOYS",
+        "from": "2023-06-24T16:30:00Z",
+        "to": "2023-06-24T17:30:00Z"
+      },
+      {
+        "artist": "WEYES BLOOD",
+        "from": "2023-06-24T15:15:00Z",
+        "to": "2023-06-24T16:00:00Z"
+      },
+      {
+        "artist": "CHARLOTTE ADIGERY & BOLIS PUPUL",
+        "from": "2023-06-24T14:00:00Z",
+        "to": "2023-06-24T14:45:00Z"
+      },
+      {
+        "artist": "GWENNO",
+        "from": "2023-06-24T12:45:00Z",
+        "to": "2023-06-24T13:30:00Z"
+      },
+      {
+        "artist": "JOHN FRANCIS FLYNN",
+        "from": "2023-06-24T11:30:00Z",
+        "to": "2023-06-24T12:15:00Z"
+      }
+    ]
+  },
+  "ACOUSTIC STAGE": {
+    "FRIDAY": [
+      {
+        "artist": "THE SAW DOCTORS",
+        "from": "2023-06-22T21:30:00Z",
+        "to": "2023-06-22T22:45:00Z"
+      },
+      {
+        "artist": "STEVE EARLE",
+        "from": "2023-06-22T20:00:00Z",
+        "to": "2023-06-22T21:00:00Z"
+      },
+      {
+        "artist": "GAVIN JAMES",
+        "from": "2023-06-22T18:30:00Z",
+        "to": "2023-06-22T19:30:00Z"
+      },
+      {
+        "artist": "NEWTON FAULKNER",
+        "from": "2023-06-22T17:00:00Z",
+        "to": "2023-06-22T18:00:00Z"
+      },
+      {
+        "artist": "SETH LAKEMAN",
+        "from": "2023-06-22T16:00:00Z",
+        "to": "2023-06-22T16:40:00Z"
+      },
+      {
+        "artist": "THE MARY WALLOPERS",
+        "from": "2023-06-22T15:00:00Z",
+        "to": "2023-06-22T15:40:00Z"
+      },
+      {
+        "artist": "MARTIN STEPHENSON & THE DAINTEES",
+        "from": "2023-06-22T14:00:00Z",
+        "to": "2023-06-22T14:40:00Z"
+      },
+      {
+        "artist": "SNIFF 'N' THE TEARS",
+        "from": "2023-06-22T13:00:00Z",
+        "to": "2023-06-22T13:40:00Z"
+      },
+      {
+        "artist": "ALLISON RUSSELL",
+        "from": "2023-06-22T12:10:00Z",
+        "to": "2023-06-22T12:40:00Z"
+      },
+      {
+        "artist": "AL LEWIS",
+        "from": "2023-06-22T11:30:00Z",
+        "to": "2023-06-22T12:00:00Z"
+      }
+    ],
+    "SATURDAY": [
+      {
+        "artist": "PAUL CARRACK",
+        "from": "2023-06-23T21:30:00Z",
+        "to": "2023-06-23T22:45:00Z"
+      },
+      {
+        "artist": "GLEN HANSARD",
+        "from": "2023-06-23T20:00:00Z",
+        "to": "2023-06-23T21:00:00Z"
+      },
+      {
+        "artist": "GLENN TILBROOK AND BEAUTIFUL LANDING",
+        "from": "2023-06-23T18:30:00Z",
+        "to": "2023-06-23T19:30:00Z"
+      },
+      {
+        "artist": "RICHARD THOMPSON",
+        "from": "2023-06-23T17:00:00Z",
+        "to": "2023-06-23T18:00:00Z"
+      },
+      {
+        "artist": "BADLY DRAWN BOY",
+        "from": "2023-06-23T16:00:00Z",
+        "to": "2023-06-23T16:40:00Z"
+      },
+      {
+        "artist": "THE SHARON SHANNON TRIO",
+        "from": "2023-06-23T15:00:00Z",
+        "to": "2023-06-23T15:40:00Z"
+      },
+      {
+        "artist": "THE MAGIC NUMBERS",
+        "from": "2023-06-23T14:00:00Z",
+        "to": "2023-06-23T14:40:00Z"
+      },
+      {
+        "artist": "ROO PANES",
+        "from": "2023-06-23T13:00:00Z",
+        "to": "2023-06-23T13:40:00Z"
+      },
+      {
+        "artist": "KATYA",
+        "from": "2023-06-23T12:10:00Z",
+        "to": "2023-06-23T12:40:00Z"
+      },
+      {
+        "artist": "CLARE SANDS",
+        "from": "2023-06-23T11:30:00Z",
+        "to": "2023-06-23T12:00:00Z"
+      }
+    ],
+    "SUNDAY": [
+      {
+        "artist": "RICKIE LEE JONES",
+        "from": "2023-06-24T21:30:00Z",
+        "to": "2023-06-24T22:45:00Z"
+      },
+      {
+        "artist": "GILBERT O'SULLIVAN",
+        "from": "2023-06-24T20:00:00Z",
+        "to": "2023-06-24T21:00:00Z"
+      },
+      {
+        "artist": "THE BOOTLEG BEATLES",
+        "from": "2023-06-24T18:30:00Z",
+        "to": "2023-06-24T19:30:00Z"
+      },
+      {
+        "artist": "LAURA CANTRELL",
+        "from": "2023-06-24T17:30:00Z",
+        "to": "2023-06-24T18:10:00Z"
+      },
+      {
+        "artist": "TOYAH WILLCOX & ROBERT FRIPP",
+        "from": "2023-06-24T16:10:00Z",
+        "to": "2023-06-24T17:10:00Z"
+      },
+      {
+        "artist": "BIRD ON THE WIRE: THE SONGS OF LEONARD COHEN",
+        "from": "2023-06-24T15:00:00Z",
+        "to": "2023-06-24T15:50:00Z"
+      },
+      {
+        "artist": "RUMER",
+        "from": "2023-06-24T14:00:00Z",
+        "to": "2023-06-24T14:40:00Z"
+      },
+      {
+        "artist": "KATHRYN ROBERTS & SEAN LAKEMAN",
+        "from": "2023-06-24T13:00:00Z",
+        "to": "2023-06-24T13:40:00Z"
+      },
+      {
+        "artist": "NAOMI KIMPENU (ETC FINALIST)",
+        "from": "2023-06-24T12:10:00Z",
+        "to": "2023-06-24T12:40:00Z"
+      },
+      {
+        "artist": "ANGELINE MORRISON",
+        "from": "2023-06-24T11:30:00Z",
+        "to": "2023-06-24T12:00:00Z"
+      }
+    ]
+  },
+  "AVALON STAGE": {
+    "FRIDAY": [
+      {
+        "artist": "THE DAMNED",
+        "from": "2023-06-22T23:05:00Z",
+        "to": "2023-06-23T00:20:00Z"
+      },
+      {
+        "artist": "FREYA RIDINGS",
+        "from": "2023-06-22T21:35:00Z",
+        "to": "2023-06-22T22:35:00Z"
+      },
+      {
+        "artist": "XAVIER RUDD",
+        "from": "2023-06-22T20:05:00Z",
+        "to": "2023-06-22T21:05:00Z"
+      },
+      {
+        "artist": "LAURA MVULA",
+        "from": "2023-06-22T18:35:00Z",
+        "to": "2023-06-22T19:35:00Z"
+      },
+      {
+        "artist": "LOTTERY WINNERS",
+        "from": "2023-06-22T17:05:00Z",
+        "to": "2023-06-22T18:05:00Z"
+      },
+      {
+        "artist": "JAMIE WEBSTER",
+        "from": "2023-06-22T15:35:00Z",
+        "to": "2023-06-22T16:35:00Z"
+      },
+      {
+        "artist": "FANNY LUMSDEN",
+        "from": "2023-06-22T14:15:00Z",
+        "to": "2023-06-22T15:05:00Z"
+      },
+      {
+        "artist": "HOBO JONES & THE JUNKYARD DOGS",
+        "from": "2023-06-22T13:00:00Z",
+        "to": "2023-06-22T13:50:00Z"
+      }
+    ],
+    "SATURDAY": [
+      {
+        "artist": "VINTAGE TROUBLE",
+        "from": "2023-06-23T23:05:00Z",
+        "to": "2023-06-24T00:15:00Z"
+      },
+      {
+        "artist": "MELANIE C",
+        "from": "2023-06-23T21:35:00Z",
+        "to": "2023-06-23T22:35:00Z"
+      },
+      {
+        "artist": "JAKE SHEARS",
+        "from": "2023-06-23T20:05:00Z",
+        "to": "2023-06-23T21:05:00Z"
+      },
+      {
+        "artist": "GABRIELLE APLIN",
+        "from": "2023-06-23T18:35:00Z",
+        "to": "2023-06-23T19:35:00Z"
+      },
+      {
+        "artist": "FISHERMAN'S FRIENDS",
+        "from": "2023-06-23T17:05:00Z",
+        "to": "2023-06-23T18:05:00Z"
+      },
+      {
+        "artist": "JOANNE SHAW TAYLOR",
+        "from": "2023-06-23T15:35:00Z",
+        "to": "2023-06-23T16:35:00Z"
+      },
+      {
+        "artist": "BEANS ON TOAST",
+        "from": "2023-06-23T14:10:00Z",
+        "to": "2023-06-23T15:05:00Z"
+      },
+      {
+        "artist": "HOLY MOLY & THE CRACKERS",
+        "from": "2023-06-23T12:50:00Z",
+        "to": "2023-06-23T13:45:00Z"
+      },
+      {
+        "artist": "CABLE STREET COLLECTIVE",
+        "from": "2023-06-23T11:30:00Z",
+        "to": "2023-06-23T12:20:00Z"
+      }
+    ],
+    "SUNDAY": [
+      {
+        "artist": "NEVILLE STAPLE - FROM THE SPECIALS",
+        "from": "2023-06-24T22:50:00Z",
+        "to": "2023-06-24T23:50:00Z"
+      },
+      {
+        "artist": "MICA PARIS",
+        "from": "2023-06-24T21:20:00Z",
+        "to": "2023-06-24T22:20:00Z"
+      },
+      {
+        "artist": "LISSIE",
+        "from": "2023-06-24T19:50:00Z",
+        "to": "2023-06-24T20:50:00Z"
+      },
+      {
+        "artist": "FAR FROM SAINTS",
+        "from": "2023-06-24T18:20:00Z",
+        "to": "2023-06-24T19:20:00Z"
+      },
+      {
+        "artist": "WILL YOUNG",
+        "from": "2023-06-24T16:50:00Z",
+        "to": "2023-06-24T17:50:00Z"
+      },
+      {
+        "artist": "ELVANA",
+        "from": "2023-06-24T15:20:00Z",
+        "to": "2023-06-24T16:20:00Z"
+      },
+      {
+        "artist": "CARA DILLON",
+        "from": "2023-06-24T13:55:00Z",
+        "to": "2023-06-24T14:50:00Z"
+      },
+      {
+        "artist": "HANNAH WILLIAMS & THE AFFIRMATIONS",
+        "from": "2023-06-24T12:35:00Z",
+        "to": "2023-06-24T13:25:00Z"
+      },
+      {
+        "artist": "N'FAMADY KOUYATÉ",
+        "from": "2023-06-24T11:30:00Z",
+        "to": "2023-06-24T12:10:00Z"
+      }
+    ]
+  },
+  "LEFT FIELD": {
+    "FRIDAY": [
+      {
+        "artist": "BILLY BRAGG",
+        "from": "2023-06-22T21:00:00Z",
+        "to": "2023-06-22T22:00:00Z"
+      },
+      {
+        "artist": "BENEFITS",
+        "from": "2023-06-22T19:30:00Z",
+        "to": "2023-06-22T20:30:00Z"
+      },
+      {
+        "artist": "CASSYETTE",
+        "from": "2023-06-22T18:15:00Z",
+        "to": "2023-06-22T19:00:00Z"
+      },
+      {
+        "artist": "DEADLETTER",
+        "from": "2023-06-22T17:00:00Z",
+        "to": "2023-06-22T17:45:00Z"
+      },
+      {
+        "artist": "RADICAL ROUND UP: BILLY BRAGG, TARA LILY, SAM LEE, DAVID ROVICS",
+        "from": "2023-06-22T15:00:00Z",
+        "to": "2023-06-22T16:30:00Z"
+      },
+      {
+        "artist": "DEBATES: THIS LAND IS YOUR LAND: THE FIGHT FOR NATURE: WITH BLACK GIRLS HIKE, CLAIRE RATINON, RIGHT TO ROAM, SURFERS AGAINST SEWAGE, JOHN HARRIS",
+        "from": "2023-06-22T13:30:00Z",
+        "to": "2023-06-22T14:30:00Z"
+      },
+      {
+        "artist": "DEBATES: WOMAN, LIFE, FREEDOM: SOLIDARITY WITH IRAN: WITH AGHILEH DJAFARI-MARBINI, NAZANIN ZAGHARI-RATCLIFFE, PARDIS SHAFAFI, SHAPPI KHORSANDI, HANAN ABDALLA",
+        "from": "2023-06-22T12:00:00Z",
+        "to": "2023-06-22T13:00:00Z"
+      }
+    ],
+    "SATURDAY": [
+      {
+        "artist": "DRÉYA MAC",
+        "from": "2023-06-23T21:00:00Z",
+        "to": "2023-06-23T22:00:00Z"
+      },
+      {
+        "artist": "KID KAPICHI",
+        "from": "2023-06-23T19:30:00Z",
+        "to": "2023-06-23T20:30:00Z"
+      },
+      {
+        "artist": "CRAWLERS",
+        "from": "2023-06-23T18:15:00Z",
+        "to": "2023-06-23T19:00:00Z"
+      },
+      {
+        "artist": "DELILAH BON",
+        "from": "2023-06-23T17:00:00Z",
+        "to": "2023-06-23T17:45:00Z"
+      },
+      {
+        "artist": "BIG JOANIE",
+        "from": "2023-06-23T16:30:00Z",
+        "to": "2023-06-23T17:00:00Z"
+      },
+      {
+        "artist": "RADICAL ROUND UP: BILLY BRAGG, JAMIE WEBSTER, RIANNE DOWNEY",
+        "from": "2023-06-23T15:00:00Z",
+        "to": "2023-06-23T16:00:00Z"
+      },
+      {
+        "artist": "DEBATES: CAN WE SAVE THE NHS? WITH MIGRANTS ORGANISE, WE OWN IT, DR SONIA ADESARA, DR ROSENA ALLIN-KHAN MP, MINNIE RAHMAN",
+        "from": "2023-06-23T13:30:00Z",
+        "to": "2023-06-23T14:30:00Z"
+      },
+      {
+        "artist": "DEBATES: ONE MINUTE TO MIDNIGHT: CAN POLITICS DELIVER ON CLIMATE ACTION? WITH AREEBA HAMID, ED MILIBAND MP, SEPI GOLZARI-MUNRO, XR, JOHN HARRIS",
+        "from": "2023-06-23T12:00:00Z",
+        "to": "2023-06-23T13:00:00Z"
+      }
+    ],
+    "SUNDAY": [
+      {
+        "artist": "CAVETOWN",
+        "from": "2023-06-24T21:00:00Z",
+        "to": "2023-06-24T22:00:00Z"
+      },
+      {
+        "artist": "WILL VARLEY",
+        "from": "2023-06-24T19:30:00Z",
+        "to": "2023-06-24T20:30:00Z"
+      },
+      {
+        "artist": "LIME GARDEN",
+        "from": "2023-06-24T18:15:00Z",
+        "to": "2023-06-24T19:00:00Z"
+      },
+      {
+        "artist": "TOM A. SMITH",
+        "from": "2023-06-24T17:00:00Z",
+        "to": "2023-06-24T17:45:00Z"
+      },
+      {
+        "artist": "RADICAL ROUND UP: BILLY BRAGG, HANNAH GRAE, TYLA JAY, MICK THOMAS AND JEN ANDERSON",
+        "from": "2023-06-24T15:00:00Z",
+        "to": "2023-06-24T16:30:00Z"
+      },
+      {
+        "artist": "DEBATES: TRUTH, JUSTICE AND CHANGE FOR GRENFELL? WITH BEREAVED AND SURVIVORS FROM GRENFELL UNITED, NIM RALPH",
+        "from": "2023-06-24T13:30:00Z",
+        "to": "2023-06-24T14:30:00Z"
+      },
+      {
+        "artist": "DEBATES: POWER IN A UNION: A YEAR OF STRIKES AND SOLIDARITY WITH STRIKING NURSE, STRIKING TEACHER, PAT CULLEN (RCN), MIATTA FAHNBULLEH, JOHN HARRIS",
+        "from": "2023-06-24T12:00:00Z",
+        "to": "2023-06-24T13:00:00Z"
+      }
+    ]
+  }
+}

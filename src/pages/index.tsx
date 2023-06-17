@@ -2,6 +2,8 @@ import { type NextPage } from "next";
 import Head from "next/head";
 import Link from "next/link";
 import { api } from "~/utils/api";
+import { Itinerary } from "~/components/itinerary";
+import lineup from "~/utils/lineup.json";
 
 const Home: NextPage = () => {
   const hello = api.example.hello.useQuery({ text: "from tRPC" });
@@ -26,6 +28,7 @@ const Home: NextPage = () => {
             </p>
           </div>
         </div>
+        <Itinerary itinerary={lineup} />
       </main>
     </>
   );
